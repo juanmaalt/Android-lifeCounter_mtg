@@ -1,2 +1,4 @@
-# Android-lifeCounter_mtg
-Basic Android application to count players (2-6) life based on MTG board game.
+## Android-lifeCounter_mtg
+Lightweight Android App.
+This App it´s based on MTG (Magic the Gathering) board game.
+You can track 2 to 6 players life count.
